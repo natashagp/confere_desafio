@@ -1,0 +1,46 @@
+name: confere_desafio
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  dio: ^4.0.0
+  path: ^1.8.0
+  path_provider: ^2.0.2
+  sqflite: ^2.0.0+3
+  shared_preferences: ^2.0.6
+  flutter_bloc: ^7.1.0
+  google_fonts: ^2.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  # flutter_native_splash: ^1.2.0
+  # flutter_launcher_name: ^0.0.1
+  # flutter_launcher_icons: ^0.9.1
+
+# flutter_launcher_name:
+#   name: "Gerenciador de Produtos"
+
+# flutter_icons:
+#   android: true
+#   ios: true
+#   image_path: "assets/logo.png"
+
+# flutter_native_splash:
+#   color: "#9464F7"
+#   image: assets/logo.png
+#   android: true
+#   ios: true
+
+flutter:
+  uses-material-design: true
