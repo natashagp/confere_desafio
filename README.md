@@ -33,3 +33,7 @@ Este desafio foi desenvolvido de acordo com as especificações do **[Desafio Co
 <p>
   <img src="prints/dialog.png" width="200" height="400"/> <img src="prints/create.png" width="200" height="400"/> <img src="prints/details.png" width="200" height="400"/>
 </p>
+
+### Demo
+
+<img src="/demo/demo.gif" width="200" height="400"/>
