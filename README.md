@@ -24,3 +24,12 @@ Este desafio foi desenvolvido de acordo com as especificações do **[Desafio Co
 ## 📱 APK
 
 **[APK](https://drive.google.com/file/d/1QcfDiRABjri-Oy-ezkoGKq-nxdPCTz2M/view?usp=sharing)**
+
+## Layout
+
+<p>
+  <img src="prints/splash.png" width="200" height="400"/> <img src="prints/products.png" width="200" height="400"/> <img src="prints/edit.png" width="200" height="400"/> 
+</p>
+<p>
+  <img src="prints/dialog.png" width="200" height="400"/> <img src="prints/create.png" width="200" height="400"/> <img src="prints/details.png" width="200" height="400"/>
+</p>
